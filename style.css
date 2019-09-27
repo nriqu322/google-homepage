@@ -1,0 +1,87 @@
+nav {
+    text-align: right;
+    margin: 0px;
+    padding: 10px;
+}
+ul {
+    padding-left: 30px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 0px;
+}
+#grid-icon {
+    width: 30px;
+    height: 30px;
+}
+body {
+    font-size: 13px;
+    font-family: arial, sans-serif;
+}
+#google-logo {
+    padding-top: 109px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    padding-right: 15px;
+}
+a:hover {
+    text-decoration: underline;
+}
+main {
+    text-align: center;
+}
+input {
+    width: 580px;
+    height: 42px;
+    border: 1px solid;
+    border-color: lightgrey;
+    border-radius: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#boxes {
+    margin: 15px 4px;
+    padding: 0px 16px;
+}
+.button {
+    margin: 0px 20px 0px 0px;
+    padding: 10px 15px;
+    background-color: rgb(238,238,238);
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.button:hover {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: lightgray;
+    cursor: pointer;
+}
+footer {
+    display: block;
+    background-color:  rgb(238,238,238);
+    color: grey;
+    padding: 0px 30px;
+    margin: 0;
+    border-top: 1px solid lightgrey;
+    border-bottom: 1px solid lightgray;
+}
+footer p {
+    display: block;
+    font-size: 15px;
+}
+footer a {
+    color: gray;
+}
+.footer-right {
+    float: right;
+    margin-right: -30px;
+    border-top: 1px solid lightgrey;
+}
+.footer-left {
+    float: left;
+    margin-left: -30px;
+    border-top: 1px solid lightgrey;
+}

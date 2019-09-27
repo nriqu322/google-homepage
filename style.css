@@ -79,9 +79,11 @@ footer a {
     float: right;
     margin-right: -30px;
     border-top: 1px solid lightgrey;
+    background-color: rgb(238,238,238);
 }
 .footer-left {
     float: left;
     margin-left: -30px;
     border-top: 1px solid lightgrey;
+    background-color: rgb(238,238,238);
 }

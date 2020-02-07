@@ -1,36 +1,44 @@
 nav {
-    text-align: right;
-    margin: 0px;
-    padding: 10px;
+  text-align: right;
+  margin: 0px;
+  padding: 10px;
 }
+
 ul {
-    padding-left: 30px;
+  padding-left: 30px;
 }
+
 li {
-    display: inline;
-    padding: 0px 10px 0px 0px;
+  display: inline;
+  padding: 0px 10px 0px 0px;
 }
+
 #grid-icon {
-    width: 30px;
-    height: 30px;
+  width: 30px;
+  height: 30px;
 }
+
 body {
-    font-size: 13px;
-    font-family: arial, sans-serif;
+  font-size: 13px;
+  font-family: arial, sans-serif;
 }
+
 #googlelogo {
-    padding-top: 109px;
+  padding-top: 109px;
 }
+
 a {
-    text-decoration: none;
-    color: black;
-    padding-right: 15px;
+  text-decoration: none;
+  color: black;
+  padding-right: 15px;
 }
+
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
+
 main {
-    text-align: center;
+  text-align: center;
 }
 input {
     width: 580px;
